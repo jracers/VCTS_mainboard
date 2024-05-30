@@ -1,0 +1,1295 @@
+Removed Pin From Net: NetName=PWR_OK_ATX Pin=D?-1
+Removed Pin From Net: NetName=NetD?_2 Pin=D?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=R?-1
+Removed Member From Class: ClassName=U_MCU Member=X?
+Change Component Footprint: Designator=D? Old Footprint=SOT23-3 New Footprint=SOD-123
+Change Component Comment : Designator=D? Old Comment=AZ23C5V6-E3-18 New Comment=SZMMSZ5227BT1G
+Change Component Comment : Designator=D? Old Comment=MMSZ5231B-7-F New Comment=SZMMSZ5227BT1G
+Change component parameters: Designator = "D?" ("D?"); Footprint = "SOD-123"; UniqueID = "\MKMEFEFL\ETDPCSNU" ("\MKMEFEFL\ETDPCSNU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/SZMMSZ5227BT1G/3063346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vr"; Value = "3.6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D?" ("D?"); Footprint = "SOT23-3"; UniqueID = "\UIBYZZZS\KLIAHTPL" ("\UIBYZZZS\KLIAHTPL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/SZMMSZ5227BT1G/3063346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vr"; Value = "3.6"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching1(SOP65P600X115-15N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/INFN/INFN-S-A0012431809/INFN-S-A0012432886-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7008-2EPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BTS70082EPZXUMA1"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching1(TO-263-7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/BTS500101TADATMA2/9693060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.infineon.com/dgdl/Infineon-BTS50010-1TAD-DS-v01_01-EN.pdf?fileId=5546d462576f34750157c38810ca55cd"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching1(TO-263-7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/BTS500101TADATMA2/9693060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.infineon.com/dgdl/Infineon-BTS50010-1TAD-DS-v01_01-EN.pdf?fileId=5546d462576f34750157c38810ca55cd"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching1(SOP65P600X115-15N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/INFN/INFN-S-A0012431809/INFN-S-A0012432886-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7008-2EPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BTS70082EPZXUMA1"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching2(SOP65P600X115-15N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/INFN/INFN-S-A0012431809/INFN-S-A0012432886-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7008-2EPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BTS70082EPZXUMA1"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching2(TO-263-7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/BTS500101TADATMA2/9693060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.infineon.com/dgdl/Infineon-BTS50010-1TAD-DS-v01_01-EN.pdf?fileId=5546d462576f34750157c38810ca55cd"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching2(TO-263-7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/BTS500101TADATMA2/9693060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.infineon.com/dgdl/Infineon-BTS50010-1TAD-DS-v01_01-EN.pdf?fileId=5546d462576f34750157c38810ca55cd"; VariantName = "[No Variations]"
+Added Component: Designator=B?_U_Interface_Load_Switching2(SOP65P600X115-15N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/INFN/INFN-S-A0012431809/INFN-S-A0012432886-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BTS7008-2EPZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BTS70082EPZXUMA1"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_Interface_Load_Switching2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching1(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR2MM30BTFTR/9748137"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vf"; Value = "490 mV @ 2 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "30"; VariantName = "[No Variations]"
+Added Component: Designator=D?_U_Interface_Load_Switching2(SOD-123F)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/1N5819HW1-7-F/1N5819HW1-7-FDITR-ND/5768523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/SZMMSZ5227BT1G/3063346"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num_Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vr"; Value = "3.6"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/86340/az23_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/AZ23C5V6-E3-18/3104165"; VariantName = "[No Variations]"
+Added Component: Designator=F?(1812_PTC_FUSE)
+Add component (AddParameter): Name = "Current - Hold (Ih)"; Value = "2.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Trip (It)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Initial (Ri) (Min)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Post Trip (R1) (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0805_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0805_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.79k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.79k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0805_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.79k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.79k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0805_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R?_U_Interface_Load_Switching2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=X?(GenericPinHeader(.1in))
+Added Component: Designator=X?(GenericPinHeader(.1in))
+Added Component: Designator=X?(GenericPinHeader(.1in))
+Added Component: Designator=X?(GenericPinHeader(.1in))
+Added Pin To Net: NetName=PWR_OK_ATX Pin=D?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=X?-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=B?_U_Interface_Load_Switching1-15
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-1
+Added Net: Name=3V3_PWR_U_Interface_Load_Switching1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=B?_U_Interface_Load_Switching2-15
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=3V3_PWR_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-1
+Added Net: Name=3V3_PWR_U_Interface_Load_Switching2
+Add Net: Net with name "A0" already exists
+Add Net: Net with name "A1" already exists
+Added Pin To Net: NetName=FAN_PWR_FUSED Pin=F?-2
+Added Pin To Net: NetName=FAN_PWR_FUSED Pin=X?-1
+Added Net: Name=FAN_PWR_FUSED
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=C?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=D?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching1 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=GND_U_Interface_Load_Switching1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=C?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=GND_U_Interface_Load_Switching2 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=GND_U_Interface_Load_Switching2
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_1 Pin=B?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_1 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_1
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_1" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_1" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_1" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_2 Pin=B?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_2 Pin=R?_U_Interface_Load_Switching1-1
+Added Net: Name=NetB?_U_Interface_Load_Switching1_2
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_2" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_3 Pin=B?_U_Interface_Load_Switching1-3
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_3 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_3 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_3
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_3" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_3" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_3" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_4 Pin=B?_U_Interface_Load_Switching1-4
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_4 Pin=R?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_4 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_4
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_4" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_5 Pin=B?_U_Interface_Load_Switching1-5
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_5 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_5
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_5" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_5" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_5" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_6 Pin=B?_U_Interface_Load_Switching1-6
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_6 Pin=R?_U_Interface_Load_Switching1-1
+Added Net: Name=NetB?_U_Interface_Load_Switching1_6
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_6" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_8 Pin=B?_U_Interface_Load_Switching1-8
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_8 Pin=C?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_8
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_8" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_8" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_8" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=B?_U_Interface_Load_Switching1-12
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=B?_U_Interface_Load_Switching1-13
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=B?_U_Interface_Load_Switching1-14
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=C?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=D?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_12 Pin=R?_U_Interface_Load_Switching1-1
+Added Net: Name=NetB?_U_Interface_Load_Switching1_12
+Add Net: Net with name "NetB?_U_Interface_Load_Switching1_12" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_15 Pin=B?_U_Interface_Load_Switching1-15
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching1_15 Pin=C?_U_Interface_Load_Switching1-2
+Added Net: Name=NetB?_U_Interface_Load_Switching1_15
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_1 Pin=B?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_1 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=NetB?_U_Interface_Load_Switching2_1
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_1" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_1" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_1" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_2 Pin=B?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_2 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetB?_U_Interface_Load_Switching2_2
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_2" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_3 Pin=B?_U_Interface_Load_Switching2-3
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_3 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetB?_U_Interface_Load_Switching2_3
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_3" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_3" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_3" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_4 Pin=B?_U_Interface_Load_Switching2-4
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_4 Pin=R?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_4 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=NetB?_U_Interface_Load_Switching2_4
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_4" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_5 Pin=B?_U_Interface_Load_Switching2-5
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_5 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=NetB?_U_Interface_Load_Switching2_5
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_5" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_5" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_5" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_6 Pin=B?_U_Interface_Load_Switching2-6
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_6 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetB?_U_Interface_Load_Switching2_6
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_6" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=B?_U_Interface_Load_Switching2-8
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=B?_U_Interface_Load_Switching2-9
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=B?_U_Interface_Load_Switching2-10
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=C?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_8 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetB?_U_Interface_Load_Switching2_8
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_8" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_8" already exists
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_8" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=B?_U_Interface_Load_Switching2-12
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=B?_U_Interface_Load_Switching2-13
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=B?_U_Interface_Load_Switching2-14
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=C?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=D?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_12 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetB?_U_Interface_Load_Switching2_12
+Add Net: Net with name "NetB?_U_Interface_Load_Switching2_12" already exists
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_15 Pin=B?_U_Interface_Load_Switching2-15
+Added Pin To Net: NetName=NetB?_U_Interface_Load_Switching2_15 Pin=C?_U_Interface_Load_Switching2-2
+Added Net: Name=NetB?_U_Interface_Load_Switching2_15
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetC?_U_Interface_Load_Switching1_2 Pin=C?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=NetC?_U_Interface_Load_Switching1_2 Pin=R?_U_Interface_Load_Switching1-1
+Added Net: Name=NetC?_U_Interface_Load_Switching1_2
+Add Net: Net with name "NetC?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetC?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetC?_U_Interface_Load_Switching1_2" already exists
+Added Pin To Net: NetName=NetC?_U_Interface_Load_Switching2_2 Pin=C?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetC?_U_Interface_Load_Switching2_2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetC?_U_Interface_Load_Switching2_2 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetC?_U_Interface_Load_Switching2_2
+Add Net: Net with name "NetC?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetC?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetC?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching1_2 Pin=D?_U_Interface_Load_Switching1-2
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching1_2 Pin=R?_U_Interface_Load_Switching1-1
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching1_2 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetD?_U_Interface_Load_Switching1_2
+Add Net: Net with name "NetD?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching1_2" already exists
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching2_2 Pin=D?_U_Interface_Load_Switching2-2
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching2_2 Pin=R?_U_Interface_Load_Switching2-1
+Added Pin To Net: NetName=NetD?_U_Interface_Load_Switching2_2 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=NetD?_U_Interface_Load_Switching2_2
+Add Net: Net with name "NetD?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetD?_U_Interface_Load_Switching2_2" already exists
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Net: Name=NetF?_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED1_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED1_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED1_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED1_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED2_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED2_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED2_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED2_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED3_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED3_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED3_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED3_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED4_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED4_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED4_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED4_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED5_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED5_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED5_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED5_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED6_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED6_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED6_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED6_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED7_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED7_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED7_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED7_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED8_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED8_1" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED8_3" already exists
+Add Net: Net with name "NetQ?_U_RGB_LED8_3" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=NetR?_U_Interface_Load_Switching1_1 Pin=R?_U_Interface_Load_Switching1-1
+Added Net: Name=NetR?_U_Interface_Load_Switching1_1
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_1" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_1" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_1" already exists
+Added Pin To Net: NetName=NetR?_U_Interface_Load_Switching1_2 Pin=R?_U_Interface_Load_Switching1-2
+Added Net: Name=NetR?_U_Interface_Load_Switching1_2
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching1_2" already exists
+Added Pin To Net: NetName=NetR?_U_Interface_Load_Switching2_1 Pin=R?_U_Interface_Load_Switching2-1
+Added Net: Name=NetR?_U_Interface_Load_Switching2_1
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_1" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_1" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_1" already exists
+Added Pin To Net: NetName=NetR?_U_Interface_Load_Switching2_2 Pin=R?_U_Interface_Load_Switching2-2
+Added Net: Name=NetR?_U_Interface_Load_Switching2_2
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetR?_U_Interface_Load_Switching2_2" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetTP?_1" already exists
+Add Net: Net with name "NetU?_6" already exists
+Add Net: Net with name "NetX?_1" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SCL" already exists
+Add Net: Net with name "SDA" already exists
+Add Net: Net with name "SDA" already exists
+Add Net: Net with name "VCC" already exists
+Add Net: Net with name "VCC" already exists
+Add Net: Net with name "VDD" already exists
+Change Class Name : Old Net Name=U_CAN New Net Name=U_Panel_Interface
+Change Class Name : Old Net Name=U_EEPROM New Net Name=U_MCU
+Change Class Name : Old Net Name=U_MCU New Net Name=U_CAN
+Change Class Name : Old Net Name=U_RTC New Net Name=U_Card_Interface
+Added Class: Name=U_EEPROM
+Added Class: Name=U_FAN_Conn
+Added Class: Name=U_Interface_Load_Switching1
+Added Class: Name=U_Interface_Load_Switching2
+Added Class: Name=U_RTC
+Add Differential Pair: Number of nets in differential pair NetD?_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD?_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR?_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR?_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USBCONN_D is 1 instead of 2
+Added Class: Name=Interface_Load_Switching
+Added Member To Class: ClassName=U_Panel_Interface Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component C? Capacitor
+Added Member To Class: ClassName=U_MCU Member=Component C? Capacitor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_CAN Member=Component C? Capacitor
+Added Member To Class: ClassName=U_CAN Member=Component C? Capacitor
+Added Member To Class: ClassName=U_CAN Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Temp_sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Temp_sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_Temp_sense Member=Component C? Capacitor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_Panel_Interface Member=Component D? AZ23C5V6-E3-18
+Added Member To Class: ClassName=U_Panel_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_Panel_Interface Member=Component D? 0805_LED
+Added Member To Class: ClassName=U_ATX_Interface Member=Component F? 3568 Mini Fuse Holder
+Added Member To Class: ClassName=U_ATX_Interface Member=Component F? 3568 Mini Fuse Holder
+Added Member To Class: ClassName=U_ATX_Interface Member=Component F? 3568 Mini Fuse Holder
+Added Member To Class: ClassName=U_Panel_Interface Member=Component FB? *
+Added Member To Class: ClassName=U_Panel_Interface Member=Component J? USB4500-03-0-A_REVA
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component Q?_U_RGB_LED1 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component Q?_U_RGB_LED1 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component Q?_U_RGB_LED2 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component Q?_U_RGB_LED2 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component Q?_U_RGB_LED3 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component Q?_U_RGB_LED3 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component Q?_U_RGB_LED4 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component Q?_U_RGB_LED4 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component Q?_U_RGB_LED5 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component Q?_U_RGB_LED5 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component Q?_U_RGB_LED6 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component Q?_U_RGB_LED6 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component Q?_U_RGB_LED7 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component Q?_U_RGB_LED7 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component Q?_U_RGB_LED8 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component Q?_U_RGB_LED8 (Q?) DMG2302UK-7
+Added Member To Class: ClassName=U_ATX_Interface Member=Component Q? DMG2302UK-7
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R?_U_RGB_LED1 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R?_U_RGB_LED2 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R?_U_RGB_LED3 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R?_U_RGB_LED4 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED5 Member=Component R?_U_RGB_LED5 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED6 Member=Component R?_U_RGB_LED6 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R?_U_RGB_LED7 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R?_U_RGB_LED8 (R?) Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_ATX_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_MCU Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_High_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_Low_Current_Sense Member=Component R? Resistor
+Added Member To Class: ClassName=U_CAN Member=Component R? Resistor
+Added Member To Class: ClassName=U_CAN Member=Component R? Resistor
+Added Member To Class: ClassName=U_CAN Member=Component R? Resistor
+Added Member To Class: ClassName=U_CAN Member=Component R? Resistor
+Added Member To Class: ClassName=U_CAN Member=Component R? Resistor
+Added Member To Class: ClassName=U_Card_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Card_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Card_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Card_Interface Member=Component R? Resistor
+Added Member To Class: ClassName=U_Panel_Interface Member=Component S? PTS645V
+Added Member To Class: ClassName=U_Panel_Interface Member=Component S? PTS645V
+Added Member To Class: ClassName=U_Panel_Interface Member=Component S? PTS645V
+Added Member To Class: ClassName=U_Panel_Interface Member=Component S? PTS645V
+Added Member To Class: ClassName=U_Panel_Interface Member=Component S? PTS645V
+Added Member To Class: ClassName=U_ATX_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_ATX_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_ATX_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_CAN Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_CAN Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Temp_sense Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Temp_sense Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Temp_sense Member=Component TP? 1mm Testpoint
+Added Member To Class: ClassName=U_Panel_Interface Member=Component U? NCA9535-Q100
+Added Member To Class: ClassName=U_MCU Member=Component U? STM32F302x6/8
+Added Member To Class: ClassName=U_MCU Member=Component U? STM32F302x6/8
+Added Member To Class: ClassName=U_MCU Member=Component U? STM32F302x6/8
+Added Member To Class: ClassName=U_MCU Member=Component U? STM32F302x6/8
+Added Member To Class: ClassName=U_Temp_sense Member=Component U? TMP235A4DCKR
+Added Member To Class: ClassName=U_Temp_sense Member=Component U? TMP235A4DCKR
+Added Member To Class: ClassName=U_Temp_sense Member=Component U? TMP235A4DCKR
+Added Member To Class: ClassName=U_ATX_Interface Member=Component X? ATX 24 Pin Main Power
+Added Member To Class: ClassName=U_MCU Member=Component X? 20021121-00010C4LF
+Added Member To Class: ClassName=U_MCU Member=Component X? HTST-110-01-L-DV-A
