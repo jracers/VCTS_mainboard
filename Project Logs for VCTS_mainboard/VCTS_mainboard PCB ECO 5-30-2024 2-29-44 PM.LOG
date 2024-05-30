@@ -1,0 +1,396 @@
+Added Component: Designator=R21(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R137(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R138(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R139(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R140(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R141(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R142(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R143(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R144(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R145(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R149(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R150(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R151(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R152(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R153(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R154(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R156(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R241(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R242(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R243(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R244(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R245(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R246(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R248(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R249(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R250(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R251(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R252(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R253(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R254(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R255(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R256(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R257(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R258(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R259(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R260(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R261(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R262(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R263(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R264(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R265(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R266(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R267(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R268(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R269(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R270(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R271(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R272(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R273(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R274(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R275(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R276(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R277(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "310"; VariantName = "[No Variations]"
+Added Component: Designator=R278(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R279(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R280(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R281(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R282(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R283(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R284(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R285(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_CS_BRD1_2 Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=SPI_CS_BRD1_1 Pin=R22-2
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=R23-1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=I2C_EXT_SDA Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=CAN_N Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetD32_4 Pin=R137-1
+Added Pin To Net: NetName=NetQ5_3 Pin=R137-2
+Added Pin To Net: NetName=NetD32_3 Pin=R138-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R138-2
+Added Pin To Net: NetName=NetD32_2 Pin=R139-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R139-2
+Added Pin To Net: NetName=LED_CTL_BRD4_B Pin=R140-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R140-2
+Added Pin To Net: NetName=GND Pin=R141-1
+Added Pin To Net: NetName=LED_CTL_BRD4_B Pin=R141-2
+Added Pin To Net: NetName=LED_CTL_BRD4_G Pin=R142-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R142-2
+Added Pin To Net: NetName=GND Pin=R143-1
+Added Pin To Net: NetName=LED_CTL_BRD4_G Pin=R143-2
+Added Pin To Net: NetName=LED_CTL_BRD4_R Pin=R144-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R144-2
+Added Pin To Net: NetName=GND Pin=R145-1
+Added Pin To Net: NetName=LED_CTL_BRD4_R Pin=R145-2
+Added Pin To Net: NetName=SPI_CS_BRD4_2 Pin=R149-1
+Added Pin To Net: NetName=NetR149_2 Pin=R149-2
+Added Pin To Net: NetName=NetR150_1 Pin=R150-1
+Added Pin To Net: NetName=SPI_CS_BRD4_1 Pin=R150-2
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=R151-1
+Added Pin To Net: NetName=NetR151_2 Pin=R151-2
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=R152-1
+Added Pin To Net: NetName=NetR152_2 Pin=R152-2
+Added Pin To Net: NetName=I2C_EXT_SDA Pin=R153-1
+Added Pin To Net: NetName=NetR153_2 Pin=R153-2
+Added Pin To Net: NetName=I2C_EXT_SCL Pin=R154-1
+Added Pin To Net: NetName=NetR154_2 Pin=R154-2
+Added Pin To Net: NetName=CAN_P Pin=R156-1
+Added Pin To Net: NetName=NetR156_2 Pin=R156-2
+Added Pin To Net: NetName=NetD53_4 Pin=R241-1
+Added Pin To Net: NetName=NetQ14_3 Pin=R241-2
+Added Pin To Net: NetName=NetD53_3 Pin=R242-1
+Added Pin To Net: NetName=NetQ13_3 Pin=R242-2
+Added Pin To Net: NetName=NetD53_2 Pin=R243-1
+Added Pin To Net: NetName=NetQ12_3 Pin=R243-2
+Added Pin To Net: NetName=LED_CTL_BRD3_B Pin=R244-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R244-2
+Added Pin To Net: NetName=GND Pin=R245-1
+Added Pin To Net: NetName=LED_CTL_BRD3_B Pin=R245-2
+Added Pin To Net: NetName=LED_CTL_BRD3_G Pin=R246-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R246-2
+Added Pin To Net: NetName=LED_CTL_BRD3_R Pin=R248-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R248-2
+Added Pin To Net: NetName=GND Pin=R249-1
+Added Pin To Net: NetName=LED_CTL_BRD3_R Pin=R249-2
+Added Pin To Net: NetName=NetD54_4 Pin=R250-1
+Added Pin To Net: NetName=NetQ17_3 Pin=R250-2
+Added Pin To Net: NetName=NetD54_3 Pin=R251-1
+Added Pin To Net: NetName=NetQ16_3 Pin=R251-2
+Added Pin To Net: NetName=NetD54_2 Pin=R252-1
+Added Pin To Net: NetName=NetQ15_3 Pin=R252-2
+Added Pin To Net: NetName=LED_CTL_PWR_B Pin=R253-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R253-2
+Added Pin To Net: NetName=GND Pin=R254-1
+Added Pin To Net: NetName=LED_CTL_PWR_B Pin=R254-2
+Added Pin To Net: NetName=LED_CTL_PWR_G Pin=R255-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R255-2
+Added Pin To Net: NetName=GND Pin=R256-1
+Added Pin To Net: NetName=LED_CTL_PWR_G Pin=R256-2
+Added Pin To Net: NetName=LED_CTL_PWR_R Pin=R257-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R257-2
+Added Pin To Net: NetName=GND Pin=R258-1
+Added Pin To Net: NetName=LED_CTL_PWR_R Pin=R258-2
+Added Pin To Net: NetName=NetD55_4 Pin=R259-1
+Added Pin To Net: NetName=NetQ20_3 Pin=R259-2
+Added Pin To Net: NetName=NetD55_3 Pin=R260-1
+Added Pin To Net: NetName=NetQ19_3 Pin=R260-2
+Added Pin To Net: NetName=NetD55_2 Pin=R261-1
+Added Pin To Net: NetName=NetQ18_3 Pin=R261-2
+Added Pin To Net: NetName=LED_CTL_STATUS_B Pin=R262-1
+Added Pin To Net: NetName=NetQ18_1 Pin=R262-2
+Added Pin To Net: NetName=GND Pin=R263-1
+Added Pin To Net: NetName=LED_CTL_STATUS_B Pin=R263-2
+Added Pin To Net: NetName=LED_CTL_STATUS_G Pin=R264-1
+Added Pin To Net: NetName=NetQ19_1 Pin=R264-2
+Added Pin To Net: NetName=GND Pin=R265-1
+Added Pin To Net: NetName=LED_CTL_STATUS_G Pin=R265-2
+Added Pin To Net: NetName=LED_CTL_STATUS_R Pin=R266-1
+Added Pin To Net: NetName=NetQ20_1 Pin=R266-2
+Added Pin To Net: NetName=GND Pin=R267-1
+Added Pin To Net: NetName=LED_CTL_STATUS_R Pin=R267-2
+Added Pin To Net: NetName=NetD56_4 Pin=R268-1
+Added Pin To Net: NetName=NetQ23_3 Pin=R268-2
+Added Pin To Net: NetName=NetD56_3 Pin=R269-1
+Added Pin To Net: NetName=NetQ22_3 Pin=R269-2
+Added Pin To Net: NetName=NetD56_2 Pin=R270-1
+Added Pin To Net: NetName=NetQ21_3 Pin=R270-2
+Added Pin To Net: NetName=LED_CTL_USER_B Pin=R271-1
+Added Pin To Net: NetName=NetQ21_1 Pin=R271-2
+Added Pin To Net: NetName=GND Pin=R272-1
+Added Pin To Net: NetName=LED_CTL_USER_B Pin=R272-2
+Added Pin To Net: NetName=LED_CTL_USER_G Pin=R273-1
+Added Pin To Net: NetName=NetQ22_1 Pin=R273-2
+Added Pin To Net: NetName=GND Pin=R274-1
+Added Pin To Net: NetName=LED_CTL_USER_G Pin=R274-2
+Added Pin To Net: NetName=LED_CTL_USER_R Pin=R275-1
+Added Pin To Net: NetName=NetQ23_1 Pin=R275-2
+Added Pin To Net: NetName=GND Pin=R276-1
+Added Pin To Net: NetName=LED_CTL_USER_R Pin=R276-2
+Added Pin To Net: NetName=NetD57_4 Pin=R277-1
+Added Pin To Net: NetName=NetQ26_3 Pin=R277-2
+Added Pin To Net: NetName=NetD57_3 Pin=R278-1
+Added Pin To Net: NetName=NetQ25_3 Pin=R278-2
+Added Pin To Net: NetName=NetD57_2 Pin=R279-1
+Added Pin To Net: NetName=NetQ24_3 Pin=R279-2
+Added Pin To Net: NetName=LED_CTL_SPARE_B Pin=R280-1
+Added Pin To Net: NetName=NetQ24_1 Pin=R280-2
+Added Pin To Net: NetName=GND Pin=R281-1
+Added Pin To Net: NetName=LED_CTL_SPARE_B Pin=R281-2
+Added Pin To Net: NetName=LED_CTL_SPARE_G Pin=R282-1
+Added Pin To Net: NetName=NetQ25_1 Pin=R282-2
+Added Pin To Net: NetName=GND Pin=R283-1
+Added Pin To Net: NetName=LED_CTL_SPARE_G Pin=R283-2
+Added Pin To Net: NetName=LED_CTL_SPARE_R Pin=R284-1
+Added Pin To Net: NetName=NetQ26_1 Pin=R284-2
+Added Pin To Net: NetName=GND Pin=R285-1
+Added Pin To Net: NetName=LED_CTL_SPARE_R Pin=R285-2
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R21 (R64) Resistor
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R22 (R65) Resistor
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R23 (R66) Resistor
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R24 (R67) Resistor
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R25 (R68) Resistor
+Added Member To Class: ClassName=U_Card_Interface4 Member=Component R27 (R70) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R137 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R138 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R139 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R140 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R141 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R142 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R143 (R145) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R144 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED8 Member=Component R145 (R147) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R149 (R64) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R150 (R65) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R151 (R66) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R152 (R67) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R153 (R68) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R154 (R69) Resistor
+Added Member To Class: ClassName=U_Card_Interface1 Member=Component R156 (R71) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R241 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R242 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R243 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R244 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R245 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R246 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R248 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED7 Member=Component R249 (R147) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R250 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R251 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R252 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R253 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R254 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R255 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R256 (R145) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R257 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED4 Member=Component R258 (R147) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R259 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R260 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R261 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R262 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R263 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R264 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R265 (R145) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R266 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED3 Member=Component R267 (R147) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R268 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R269 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R270 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R271 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R272 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R273 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R274 (R145) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R275 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED2 Member=Component R276 (R147) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R277 (R139) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R278 (R140) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R279 (R141) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R280 (R142) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R281 (R143) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R282 (R144) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R283 (R145) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R284 (R146) Resistor
+Added Member To Class: ClassName=U_RGB_LED1 Member=Component R285 (R147) Resistor
