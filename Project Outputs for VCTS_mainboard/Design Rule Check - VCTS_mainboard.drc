@@ -1,0 +1,213 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Kevin\Documents\GitHub\VCTS_mainboard\VCTS_mainboard.PcbDoc
+Date     : 8/14/2024
+Time     : 1:52:21 AM
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (108.25mm,51.375mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (108.25mm,52.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (108.25mm,53.625mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (109.25mm,51.375mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (109.25mm,52.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (109.25mm,53.625mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (111.75mm,55.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (111.75mm,56.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (112.875mm,55.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (112.875mm,56.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (114mm,55.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (114mm,56.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (116.25mm,51.375mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (116.25mm,52.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (116.25mm,53.625mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (117.25mm,51.375mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (117.25mm,52.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B3-8(112.81mm,52.4mm) on Bottom Copper And Via (117.25mm,53.625mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (140.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (140.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (140.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (141.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (141.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (141.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (143.94mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (143.94mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (145.065mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (145.065mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (146.19mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (146.19mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (148.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (148.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (148.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (149.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (149.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B4-8(145mm,52.3mm) on Bottom Copper And Via (149.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (172.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (172.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (172.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (173.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (173.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (173.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (175.94mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (175.94mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (177.065mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (177.065mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (178.19mm,55.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (178.19mm,56.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (180.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (180.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (180.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (181.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (181.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B7-8(177mm,52.3mm) on Bottom Copper And Via (181.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (204.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (204.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (204.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (204.885mm,55.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (204.885mm,56.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (205.44mm,51.275mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (205.44mm,52.4mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (205.44mm,53.525mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (206.01mm,55.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (206.01mm,56.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (207.135mm,55.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (207.135mm,56.113mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (209.45mm,55.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (209.45mm,56.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (210.575mm,55.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (210.575mm,56.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (211.7mm,55.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad B8-8(209mm,52.3mm) on Bottom Copper And Via (211.7mm,56.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad R19-1(194.834mm,77.534mm) on Top Copper And Track (194.007mm,76.812mm)(194.787mm,76.812mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad R19-1(194.834mm,77.534mm) on Top Copper And Track (194.792mm,76.818mm)(194.792mm,76.909mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad R19-1(194.834mm,77.534mm) on Top Copper And Track (194.859mm,76.812mm)(194.908mm,76.812mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad R19-1(194.834mm,77.534mm) on Top Copper And Track (194.908mm,76.812mm)(194.958mm,76.763mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP1-1(65.5mm,47.5mm) on Top Copper And Via (66mm,47.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP2-1(37.5mm,47.5mm) on Top Copper And Via (38mm,47.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad TP23-1(87.5mm,91.8mm) on Top Copper And Track (86.7mm,92.35mm)(88.839mm,92.35mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad TP24-1(87.5mm,93.3mm) on Top Copper And Track (86.866mm,92.75mm)(88.839mm,92.75mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP30-1(92.025mm,21.796mm) on Top Copper And Via (92.025mm,22.196mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP3-1(44.5mm,47.5mm) on Top Copper And Via (45mm,47.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP31-1(125.05mm,15.35mm) on Top Copper And Via (125.05mm,15.75mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP32-1(87.5mm,32mm) on Top Copper And Via (87.9mm,32mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP33-1(147.75mm,23.9mm) on Top Copper And Via (147.35mm,23.9mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP37-1(156mm,21.7mm) on Top Copper And Via (156mm,22.1mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP38-1(187.15mm,18.15mm) on Top Copper And Via (187.55mm,18.15mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP39-1(153.05mm,31.95mm) on Top Copper And Via (153.45mm,31.95mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP40-1(209.45mm,20.8mm) on Top Copper And Via (209.45mm,21.2mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad TP4-1(51.5mm,47.5mm) on Top Copper And Track (52mm,47.52mm)(52.4mm,47.92mm) on Top Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP4-1(51.5mm,47.5mm) on Top Copper And Via (52mm,47.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad TP5-1(58.5mm,47.5mm) on Top Copper And Via (59mm,47.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.13mm) Between Pad U5-6(116.675mm,78.3mm) on Bottom Copper And Track (116.65mm,76.7mm)(116.65mm,78.092mm) on Bottom Copper 
+   Violation between Clearance Constraint: (Collision < 0.2mm) Between Polygon Region (0 hole(s)) Bottom Copper And Track (109.479mm,69.735mm)(110.34mm,69.735mm) on Bottom Copper 
+   Violation between Clearance Constraint: (0.134mm < 0.2mm) Between Polygon Region (0 hole(s)) Bottom Copper And Track (92.225mm,47mm)(93.136mm,47mm) on Bottom Copper 
+   Violation between Clearance Constraint: (0.127mm < 0.2mm) Between Polygon Region (0 hole(s)) Bottom Copper And Track (93.136mm,47mm)(93.141mm,47.005mm) on Bottom Copper 
+   Violation between Clearance Constraint: (0.08mm < 0.13mm) Between Track (62.684mm,77.625mm)(65.04mm,77.625mm) on Bottom Copper And Track (62.964mm,77.905mm)(63.805mm,77.905mm) on Bottom Copper 
+   Violation between Clearance Constraint: (0.201mm < 0.254mm) Between Via (119.5mm,19mm) from Top Copper to Bottom Copper And Via (120mm,18.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (0.201mm < 0.254mm) Between Via (120.75mm,33.25mm) from Top Copper to Bottom Copper And Via (121.25mm,32.5mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (0.201mm < 0.254mm) Between Via (183.5mm,19mm) from Top Copper to Bottom Copper And Via (184mm,18.25mm) from Top Copper to Bottom Copper 
+   Violation between Clearance Constraint: (0.201mm < 0.254mm) Between Via (184.75mm,33.25mm) from Top Copper to Bottom Copper And Via (185.25mm,32.5mm) from Top Copper to Bottom Copper 
+Rule Violations :101
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=10mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D32-1(200.85mm,95.45mm) on Top Copper And Pad D32-4(200.85mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D32-2(199.15mm,95.45mm) on Top Copper And Pad D32-3(199.15mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D51-1(104.851mm,95.45mm) on Top Copper And Pad D51-4(104.851mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D51-2(103.151mm,95.45mm) on Top Copper And Pad D51-3(103.151mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D52-1(136.857mm,95.45mm) on Top Copper And Pad D52-4(136.857mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D52-2(135.157mm,95.45mm) on Top Copper And Pad D52-3(135.157mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D53-1(168.85mm,95.45mm) on Top Copper And Pad D53-4(168.85mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D53-2(167.15mm,95.45mm) on Top Copper And Pad D53-3(167.15mm,96.55mm) on Top Copper [Top Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D54-1(35.55mm,96.55mm) on Bottom Copper And Pad D54-4(35.55mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D54-2(33.85mm,96.55mm) on Bottom Copper And Pad D54-3(33.85mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D55-1(61.869mm,96.639mm) on Bottom Copper And Pad D55-4(61.869mm,95.539mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D55-2(60.169mm,96.639mm) on Bottom Copper And Pad D55-3(60.169mm,95.539mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D56-1(48.55mm,96.55mm) on Bottom Copper And Pad D56-4(48.55mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D56-2(46.85mm,96.55mm) on Bottom Copper And Pad D56-3(46.85mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D57-1(22.55mm,96.55mm) on Bottom Copper And Pad D57-4(22.55mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Pad D57-2(20.85mm,96.55mm) on Bottom Copper And Pad D57-3(20.85mm,95.45mm) on Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (108.25mm,51.375mm) from Top Copper to Bottom Copper And Via (109.25mm,51.375mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (108.25mm,52.5mm) from Top Copper to Bottom Copper And Via (109.25mm,52.5mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (108.25mm,53.625mm) from Top Copper to Bottom Copper And Via (109.25mm,53.625mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (111.75mm,55.25mm) from Top Copper to Bottom Copper And Via (111.75mm,56.25mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (112.875mm,55.25mm) from Top Copper to Bottom Copper And Via (112.875mm,56.25mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (114mm,55.25mm) from Top Copper to Bottom Copper And Via (114mm,56.25mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (116.25mm,51.375mm) from Top Copper to Bottom Copper And Via (117.25mm,51.375mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (116.25mm,52.5mm) from Top Copper to Bottom Copper And Via (117.25mm,52.5mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (116.25mm,53.625mm) from Top Copper to Bottom Copper And Via (117.25mm,53.625mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (140.44mm,51.275mm) from Top Copper to Bottom Copper And Via (141.44mm,51.275mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (140.44mm,52.4mm) from Top Copper to Bottom Copper And Via (141.44mm,52.4mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (140.44mm,53.525mm) from Top Copper to Bottom Copper And Via (141.44mm,53.525mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (143.94mm,55.15mm) from Top Copper to Bottom Copper And Via (143.94mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (145.065mm,55.15mm) from Top Copper to Bottom Copper And Via (145.065mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (146.19mm,55.15mm) from Top Copper to Bottom Copper And Via (146.19mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (148.44mm,51.275mm) from Top Copper to Bottom Copper And Via (149.44mm,51.275mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (148.44mm,52.4mm) from Top Copper to Bottom Copper And Via (149.44mm,52.4mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (148.44mm,53.525mm) from Top Copper to Bottom Copper And Via (149.44mm,53.525mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (172.44mm,51.275mm) from Top Copper to Bottom Copper And Via (173.44mm,51.275mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (172.44mm,52.4mm) from Top Copper to Bottom Copper And Via (173.44mm,52.4mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (172.44mm,53.525mm) from Top Copper to Bottom Copper And Via (173.44mm,53.525mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (175.94mm,55.15mm) from Top Copper to Bottom Copper And Via (175.94mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (177.065mm,55.15mm) from Top Copper to Bottom Copper And Via (177.065mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (178.19mm,55.15mm) from Top Copper to Bottom Copper And Via (178.19mm,56.15mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (180.44mm,51.275mm) from Top Copper to Bottom Copper And Via (181.44mm,51.275mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (180.44mm,52.4mm) from Top Copper to Bottom Copper And Via (181.44mm,52.4mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (180.44mm,53.525mm) from Top Copper to Bottom Copper And Via (181.44mm,53.525mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (204.44mm,51.275mm) from Top Copper to Bottom Copper And Via (205.44mm,51.275mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (204.44mm,52.4mm) from Top Copper to Bottom Copper And Via (205.44mm,52.4mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (204.44mm,53.525mm) from Top Copper to Bottom Copper And Via (205.44mm,53.525mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (204.885mm,55.113mm) from Top Copper to Bottom Copper And Via (204.885mm,56.113mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (206.01mm,55.113mm) from Top Copper to Bottom Copper And Via (206.01mm,56.113mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (207.135mm,55.113mm) from Top Copper to Bottom Copper And Via (207.135mm,56.113mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (209.45mm,55.1mm) from Top Copper to Bottom Copper And Via (209.45mm,56.1mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (210.575mm,55.1mm) from Top Copper to Bottom Copper And Via (210.575mm,56.1mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.097mm < 0.1mm) Between Via (211.7mm,55.1mm) from Top Copper to Bottom Copper And Via (211.7mm,56.1mm) from Top Copper to Bottom Copper [Bottom Mask] Mask Sliver [0.097mm]
+Rule Violations :52
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Cutout Edge): (0.068mm < 0.3mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Text "R268" (45.504mm,94.68mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.218mm < 0.3mm) Between Board Edge And Text "R259" (58.754mm,94.93mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.2mm < 0.3mm) Between Board Edge And Text "R34" (213.85mm,77.934mm) on Bottom Overlay 
+Rule Violations :3
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 156
+Waived Violations : 0
+Time Elapsed        : 00:00:03
