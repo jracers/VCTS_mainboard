@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:33:05 AM On 10/20/2024
+Start Output Generation At 12:41:15 PM On 10/20/2024
 
 Output: Indvidual Comp BOM
 Type  : BOM
-From  : Variant [[No Variations]] of Project [VCTS_mainboard.PrjPcb]
-   Generated File[Indvidual Comp BOM-VCTS_mainboard.xlsx]
+From  : Variant [Debug] of Project [VCTS_mainboard.PrjPcb]
+   Generated File[Indvidual Comp BOM-VCTS_mainboard(Debug).xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:33:10 AM On 10/20/2024
+Finished Output Generation At 12:41:19 PM On 10/20/2024
