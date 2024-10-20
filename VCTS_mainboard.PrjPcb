@@ -445,6 +445,10 @@ DocumentPath=Project Outputs for VCTS_mainboard\Design Rule Check - VCTS_mainboa
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for VCTS_mainboard\BOM\Indvidual Comp BOM-VCTS_mainboard.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for VCTS_mainboard\Move Component(s) Origin To Grid - VCTS_mainboard.html
 DItemRevisionGUID=
 

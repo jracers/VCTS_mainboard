@@ -260,3 +260,6 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+#Solidworks Stuff
+~$*
