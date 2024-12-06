@@ -412,7 +412,7 @@ UniqueID=93F3D437-3D67-4961-84DE-BE5EB48D6474
 Description=Debug
 AllowFabrication=0
 ParameterCount=0
-VariationCount=21
+VariationCount=29
 Variation1=Designator=R119|UniqueId=\GPYYBORE\MPGWQZPM|Kind=1|AlternatePart= 
 Variation2=Designator=R118|UniqueId=\GPYYBORE\PNYFEKKX|Kind=1|AlternatePart= 
 Variation3=Designator=R117|UniqueId=\GPYYBORE\FTWBENIR|Kind=1|AlternatePart= 
@@ -434,6 +434,14 @@ Variation18=Designator=R88|UniqueId=\ZZQUGGKW\BBYIEXWQ|Kind=1|AlternatePart=
 Variation19=Designator=R89|UniqueId=\ZZQUGGKW\SWIVNAWM|Kind=1|AlternatePart= 
 Variation20=Designator=R92|UniqueId=\ZZQUGGKW\MRXPTTEO|Kind=1|AlternatePart= 
 Variation21=Designator=R98|UniqueId=\ZZQUGGKW\CZHCUXCF|Kind=1|AlternatePart= 
+Variation22=Designator=R289|UniqueId=\ZZQUGGKW\GZSOGUGS|Kind=0|AlternatePart= 
+Variation23=Designator=R288|UniqueId=\ZZQUGGKW\NDRBYUTZ|Kind=0|AlternatePart= 
+Variation24=Designator=C32|UniqueId=\ZZQUGGKW\OKXVDIFV|Kind=0|AlternatePart= 
+Variation25=Designator=C33|UniqueId=\ZZQUGGKW\OESZTZHC|Kind=0|AlternatePart= 
+Variation26=Designator=R90|UniqueId=\ZZQUGGKW\MUSAJXXB|Kind=0|AlternatePart= 
+Variation27=Designator=R91|UniqueId=\ZZQUGGKW\JCSCWYFA|Kind=0|AlternatePart= 
+Variation28=Designator=C34|UniqueId=\ZZQUGGKW\APBSAUPN|Kind=0|AlternatePart= 
+Variation29=Designator=R94|UniqueId=\ZZQUGGKW\YWJSCLIN|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -445,10 +453,14 @@ DocumentPath=Project Outputs for VCTS_mainboard\Design Rule Check - VCTS_mainboa
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for VCTS_mainboard\BOM\Indvidual Comp BOM-VCTS_mainboard.xlsx
+DocumentPath=Project Outputs for VCTS_mainboard\BOM\Indvidual Comp BOM-VCTS_mainboard(Debug).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for VCTS_mainboard\BOM\Indvidual Comp BOM-VCTS_mainboard.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for VCTS_mainboard\Move Component(s) Origin To Grid - VCTS_mainboard.html
 DItemRevisionGUID=
 
